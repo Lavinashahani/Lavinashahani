@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **UI/UX designing, DSA, C++**
 
-- 📫 How to reach me **lavinashahani.24@gmail.com**
+- 📫 How to reach me **contactlavinashahani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
