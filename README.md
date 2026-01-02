@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavinashahani&label=Profile%20views&color=374ec3&style=flat" alt="lavinashahani" /> </p>
 
-- 🔭 I’m currently working on **Cufront Healthcare**
+- 👩‍💼I'm currently working as **a Freelancer**
 
-- 🌱 I’m currently learning **DSA with C++, UI/UX, Frontend Development**
-
-- 👩‍💼I'm currently working as **a UI/UX designing intern**
-
-- 💬 Ask me about **UI/UX designing, DSA, C++**
+- 💬 Ask me about **UI/UX designing, DSA, C++, Web Dev**
 
 - 📫 How to reach me **contactlavinashahani@gmail.com**
 
