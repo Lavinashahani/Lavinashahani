@@ -7,6 +7,8 @@
 - 👩‍💼I'm currently working as **a Freelancer**
 
 - 💬 Ask me about **UI/UX designing, DSA, C++, Web Dev**
+  
+- 🤝 I’m looking to collaborate on **Web development and UI/UX projects**
 
 - 📫 How to reach me **contactlavinashahani@gmail.com**
 
